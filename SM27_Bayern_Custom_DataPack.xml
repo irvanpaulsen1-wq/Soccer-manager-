@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PackData name="Irvan Bayern SM27 Custom" desc="SM27 Android data pack generated from the Bayern custom database.">
+  <PlayerData>
+    <P id="1" f="Erling" s="Haaland" />
+    <P id="2" f="Phil" s="Foden" />
+    <P id="3" f="Jeremy" s="Doku" />
+    <P id="4" f="Rayan" s="Cherki" />
+    <P id="5" f="Gianluigi" s="Donnarumma" />
+    <P id="6" f="Rodri" s="Hernandez" />
+    <P id="7" f="Bukayo" s="Saka" />
+    <P id="8" f="Martin" s="Odegaard" />
+    <P id="9" f="Viktor" s="Gyokeres" />
+    <P id="10" f="William" s="Saliba" />
+    <P id="11" f="David" s="Raya" />
+    <P id="12" f="Luis" s="Diaz" />
+    <P id="13" f="Alexander" s="Isak" />
+    <P id="14" f="Florian" s="Wirtz" />
+    <P id="15" f="Mohamed" s="Salah" />
+    <P id="16" f="Virgil" s="van Dijk" />
+    <P id="17" f="Bruno" s="Fernandes" />
+    <P id="18" f="Benjamin" s="Sesko" />
+    <P id="19" f="Estevao" s="Willian" />
+    <P id="20" f="Cole" s="Palmer" />
+    <P id="21" f="Enzo" s="Fernandez" />
+    <P id="22" f="Noni" s="Madueke" />
+    <P id="23" f="Kylian" s="Mbappe" />
+    <P id="24" f="Vinicius" s="Junior" />
+    <P id="25" f="Jude" s="Bellingham" />
+    <P id="26" f="Lamine" s="Yamal" />
+    <P id="27" f="Pedri" s="Gonzalez" />
+    <P id="28" f="Robert" s="Lewandowski" />
+    <P id="29" f="Harry" s="Kane" />
+    <P id="30" f="Jamal" s="Musiala" />
+    <P id="31" f="Michael" s="Olise" />
+    <P id="32" f="Ousmane" s="Dembele" />
+    <P id="33" f="Khvicha" s="Kvaratskhelia" />
+    <P id="34" f="Achraf" s="Hakimi" />
+    <P id="35" f="Lautaro" s="Martinez" />
+    <P id="36" f="Nicolo" s="Barella" />
+    <P id="37" f="Pau" s="Cubarsi" />
+    <P id="38" f="Nuno" s="Mendes" />
+    <P id="39" f="Yann" s="Diomande" />
+    <P id="40" f="Desire" s="Doue" />
+    <P id="41" f="Piero" s="Hincapie" />
+    <P id="42" f="Jurrien" s="Timber" />
+    <P id="43" f="Ayyoub" s="Bouaddi" />
+    <P id="44" f="Dean" s="Huijsen" />
+  </PlayerData>
+  <ClubData>
+    <C id="1" n="Manchester City" />
+    <C id="2" n="Liverpool" />
+    <C id="3" n="Arsenal" />
+    <C id="4" n="Manchester United" />
+    <C id="5" n="Chelsea" />
+    <C id="6" n="Newcastle United" />
+    <C id="7" n="Tottenham Hotspur" />
+    <C id="8" n="Barcelona" />
+    <C id="9" n="Real Madrid" />
+    <C id="10" n="Bayern Munich" />
+    <C id="11" n="Paris Saint-Germain" />
+    <C id="12" n="Inter Milan" />
+    <C id="13" n="Aston Villa" />
+    <C id="14" n="Atletico Madrid" />
+    <C id="15" n="Borussia Dortmund" />
+    <C id="16" n="RB Leipzig" />
+    <C id="17" n="Villarreal" />
+    <C id="18" n="Real Betis" />
+    <C id="19" n="Napoli" />
+    <C id="20" n="Roma" />
+    <C id="21" n="Como" />
+    <C id="22" n="Lille" />
+    <C id="23" n="Lens" />
+    <C id="24" n="Porto" />
+    <C id="25" n="Sporting CP" />
+    <C id="26" n="PSV Eindhoven" />
+    <C id="27" n="Feyenoord" />
+    <C id="28" n="Club Brugge" />
+    <C id="29" n="Fenerbahce" />
+    <C id="30" n="Galatasaray" />
+    <C id="31" n="Shakhtar Donetsk" />
+    <C id="32" n="AEK Athens" />
+    <C id="33" n="Bodo/Glimt" />
+    <C id="34" n="Viking FK" />
+    <C id="35" n="Slavia Prague" />
+    <C id="36" n="Slovan Bratislava" />
+    <C id="37" n="LASK" />
+    <C id="38" n="Sabah FC" />
+    <C id="39" n="Orlando Pirates" />
+    <C id="40" n="Mamelodi Sundowns" />
+    <C id="41" n="Kaizer Chiefs" />
+    <C id="42" n="Milford FC" />
+  </ClubData>
+</PackData>
