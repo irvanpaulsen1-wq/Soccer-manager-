@@ -1,0 +1,1032 @@
+{
+  "PlayerData": [
+    {
+      "ID": 1,
+      "Forename": "Erling",
+      "Surname": "Haaland",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 2,
+      "Forename": "Phil",
+      "Surname": "Foden",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 3,
+      "Forename": "Jeremy",
+      "Surname": "Doku",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 4,
+      "Forename": "Rayan",
+      "Surname": "Cherki",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 5,
+      "Forename": "Gianluigi",
+      "Surname": "Donnarumma",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 6,
+      "Forename": "Rodri",
+      "Surname": "Hernandez",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 7,
+      "Forename": "Bukayo",
+      "Surname": "Saka",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 8,
+      "Forename": "Martin",
+      "Surname": "Odegaard",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 9,
+      "Forename": "Viktor",
+      "Surname": "Gyokeres",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 10,
+      "Forename": "William",
+      "Surname": "Saliba",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 11,
+      "Forename": "David",
+      "Surname": "Raya",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 12,
+      "Forename": "Luis",
+      "Surname": "Diaz",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 13,
+      "Forename": "Alexander",
+      "Surname": "Isak",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 14,
+      "Forename": "Florian",
+      "Surname": "Wirtz",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 15,
+      "Forename": "Mohamed",
+      "Surname": "Salah",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 16,
+      "Forename": "Virgil",
+      "Surname": "van Dijk",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 17,
+      "Forename": "Bruno",
+      "Surname": "Fernandes",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 18,
+      "Forename": "Benjamin",
+      "Surname": "Sesko",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 19,
+      "Forename": "Estevao",
+      "Surname": "Willian",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 20,
+      "Forename": "Cole",
+      "Surname": "Palmer",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 21,
+      "Forename": "Enzo",
+      "Surname": "Fernandez",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 22,
+      "Forename": "Noni",
+      "Surname": "Madueke",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 23,
+      "Forename": "Kylian",
+      "Surname": "Mbappe",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 24,
+      "Forename": "Vinicius",
+      "Surname": "Junior",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 25,
+      "Forename": "Jude",
+      "Surname": "Bellingham",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 26,
+      "Forename": "Lamine",
+      "Surname": "Yamal",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 27,
+      "Forename": "Pedri",
+      "Surname": "Gonzalez",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 28,
+      "Forename": "Robert",
+      "Surname": "Lewandowski",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 29,
+      "Forename": "Harry",
+      "Surname": "Kane",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 30,
+      "Forename": "Jamal",
+      "Surname": "Musiala",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 31,
+      "Forename": "Michael",
+      "Surname": "Olise",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 32,
+      "Forename": "Ousmane",
+      "Surname": "Dembele",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 33,
+      "Forename": "Khvicha",
+      "Surname": "Kvaratskhelia",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 34,
+      "Forename": "Achraf",
+      "Surname": "Hakimi",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 35,
+      "Forename": "Lautaro",
+      "Surname": "Martinez",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 36,
+      "Forename": "Nicolo",
+      "Surname": "Barella",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7
+    },
+    {
+      "ID": 37,
+      "Forename": "Pau",
+      "Surname": "Cubarsi",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 38,
+      "Forename": "Nuno",
+      "Surname": "Mendes",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 39,
+      "Forename": "Yann",
+      "Surname": "Diomande",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 40,
+      "Forename": "Desire",
+      "Surname": "Doue",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 41,
+      "Forename": "Piero",
+      "Surname": "Hincapie",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 42,
+      "Forename": "Jurrien",
+      "Surname": "Timber",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 43,
+      "Forename": "Ayyoub",
+      "Surname": "Bouaddi",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    },
+    {
+      "ID": 44,
+      "Forename": "Dean",
+      "Surname": "Huijsen",
+      "ImageURL": "",
+      "Rating": 100,
+      "Potential": 100,
+      "Stars": 7,
+      "ClubID": 10,
+      "Team": "Bayern Munich"
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "Manchester City",
+      "ShortName": "MCI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 2,
+      "Name": "Liverpool",
+      "ShortName": "LIV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 3,
+      "Name": "Arsenal",
+      "ShortName": "ARS",
+      "ImageURL": ""
+    },
+    {
+      "ID": 4,
+      "Name": "Manchester United",
+      "ShortName": "MUN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 5,
+      "Name": "Chelsea",
+      "ShortName": "CHE",
+      "ImageURL": ""
+    },
+    {
+      "ID": 6,
+      "Name": "Newcastle United",
+      "ShortName": "NEW",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7,
+      "Name": "Tottenham Hotspur",
+      "ShortName": "TOT",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8,
+      "Name": "Barcelona",
+      "ShortName": "BAR",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9,
+      "Name": "Real Madrid",
+      "ShortName": "RMA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 10,
+      "Name": "Bayern Munich",
+      "ShortName": "BAY",
+      "ImageURL": ""
+    },
+    {
+      "ID": 11,
+      "Name": "Paris Saint-Germain",
+      "ShortName": "PSG",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12,
+      "Name": "Inter Milan",
+      "ShortName": "INT",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13,
+      "Name": "Aston Villa",
+      "ShortName": "AVL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 14,
+      "Name": "Atletico Madrid",
+      "ShortName": "ATM",
+      "ImageURL": ""
+    },
+    {
+      "ID": 15,
+      "Name": "Borussia Dortmund",
+      "ShortName": "BVB",
+      "ImageURL": ""
+    },
+    {
+      "ID": 16,
+      "Name": "RB Leipzig",
+      "ShortName": "RBL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 17,
+      "Name": "Villarreal",
+      "ShortName": "VIL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 18,
+      "Name": "Real Betis",
+      "ShortName": "BET",
+      "ImageURL": ""
+    },
+    {
+      "ID": 19,
+      "Name": "Napoli",
+      "ShortName": "NAP",
+      "ImageURL": ""
+    },
+    {
+      "ID": 20,
+      "Name": "Roma",
+      "ShortName": "ROM",
+      "ImageURL": ""
+    },
+    {
+      "ID": 21,
+      "Name": "Como",
+      "ShortName": "COM",
+      "ImageURL": ""
+    },
+    {
+      "ID": 22,
+      "Name": "Lille",
+      "ShortName": "LIL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 23,
+      "Name": "Lens",
+      "ShortName": "RCL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 24,
+      "Name": "Porto",
+      "ShortName": "FCP",
+      "ImageURL": ""
+    },
+    {
+      "ID": 25,
+      "Name": "Sporting CP",
+      "ShortName": "SCP",
+      "ImageURL": ""
+    },
+    {
+      "ID": 26,
+      "Name": "PSV Eindhoven",
+      "ShortName": "PSV",
+      "ImageURL": ""
+    },
+    {
+      "ID": 27,
+      "Name": "Feyenoord",
+      "ShortName": "FEY",
+      "ImageURL": ""
+    },
+    {
+      "ID": 28,
+      "Name": "Club Brugge",
+      "ShortName": "BRU",
+      "ImageURL": ""
+    },
+    {
+      "ID": 29,
+      "Name": "Fenerbahce",
+      "ShortName": "FEN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 30,
+      "Name": "Galatasaray",
+      "ShortName": "GAL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 31,
+      "Name": "Shakhtar Donetsk",
+      "ShortName": "SHA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 32,
+      "Name": "AEK Athens",
+      "ShortName": "AEK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 33,
+      "Name": "Bodo/Glimt",
+      "ShortName": "BOD",
+      "ImageURL": ""
+    },
+    {
+      "ID": 34,
+      "Name": "Viking FK",
+      "ShortName": "VIK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 35,
+      "Name": "Slavia Prague",
+      "ShortName": "SLA",
+      "ImageURL": ""
+    },
+    {
+      "ID": 36,
+      "Name": "Slovan Bratislava",
+      "ShortName": "SLO",
+      "ImageURL": ""
+    },
+    {
+      "ID": 37,
+      "Name": "LASK",
+      "ShortName": "LASK",
+      "ImageURL": ""
+    },
+    {
+      "ID": 38,
+      "Name": "Sabah FC",
+      "ShortName": "SAB",
+      "ImageURL": ""
+    },
+    {
+      "ID": 39,
+      "Name": "Orlando Pirates",
+      "ShortName": "ORL",
+      "ImageURL": ""
+    },
+    {
+      "ID": 40,
+      "Name": "Mamelodi Sundowns",
+      "ShortName": "SUN",
+      "ImageURL": ""
+    },
+    {
+      "ID": 41,
+      "Name": "Kaizer Chiefs",
+      "ShortName": "KAI",
+      "ImageURL": ""
+    },
+    {
+      "ID": 42,
+      "Name": "Milford FC",
+      "ShortName": "MIL",
+      "ImageURL": ""
+    }
+  ],
+  "LeagueData": [
+    {
+      "ID": 1,
+      "Name": "Premier League",
+      "ImageURL": ""
+    },
+    {
+      "ID": 2,
+      "Name": "La Liga",
+      "ImageURL": ""
+    },
+    {
+      "ID": 3,
+      "Name": "Serie A",
+      "ImageURL": ""
+    },
+    {
+      "ID": 4,
+      "Name": "Bundesliga",
+      "ImageURL": ""
+    },
+    {
+      "ID": 5,
+      "Name": "Ligue 1",
+      "ImageURL": ""
+    },
+    {
+      "ID": 6,
+      "Name": "Eredivisie",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7,
+      "Name": "Primeira Liga",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8,
+      "Name": "Betway Premiership",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9,
+      "Name": "Belgian Pro League",
+      "ImageURL": ""
+    },
+    {
+      "ID": 10,
+      "Name": "Super Lig",
+      "ImageURL": ""
+    },
+    {
+      "ID": 11,
+      "Name": "Ukrainian Premier League",
+      "ImageURL": ""
+    },
+    {
+      "ID": 12,
+      "Name": "Super League Greece",
+      "ImageURL": ""
+    },
+    {
+      "ID": 13,
+      "Name": "Eliteserien",
+      "ImageURL": ""
+    },
+    {
+      "ID": 14,
+      "Name": "Czech First League",
+      "ImageURL": ""
+    },
+    {
+      "ID": 15,
+      "Name": "Slovak First Football League",
+      "ImageURL": ""
+    },
+    {
+      "ID": 16,
+      "Name": "Austrian Bundesliga",
+      "ImageURL": ""
+    },
+    {
+      "ID": 17,
+      "Name": "Azerbaijan Premier League",
+      "ImageURL": ""
+    }
+  ],
+  "CupData": [
+    {
+      "ID": 1,
+      "Name": "UEFA Champions League",
+      "ImageURL": ""
+    },
+    {
+      "ID": 2,
+      "Name": "UEFA Europa League",
+      "ImageURL": ""
+    },
+    {
+      "ID": 3,
+      "Name": "UEFA Conference League",
+      "ImageURL": ""
+    },
+    {
+      "ID": 4,
+      "Name": "FA Cup",
+      "ImageURL": ""
+    },
+    {
+      "ID": 5,
+      "Name": "EFL Cup",
+      "ImageURL": ""
+    },
+    {
+      "ID": 6,
+      "Name": "Copa del Rey",
+      "ImageURL": ""
+    },
+    {
+      "ID": 7,
+      "Name": "DFB-Pokal",
+      "ImageURL": ""
+    },
+    {
+      "ID": 8,
+      "Name": "Coppa Italia",
+      "ImageURL": ""
+    },
+    {
+      "ID": 9,
+      "Name": "Coupe de France",
+      "ImageURL": ""
+    },
+    {
+      "ID": 10,
+      "Name": "MTN8",
+      "ImageURL": ""
+    },
+    {
+      "ID": 11,
+      "Name": "Carling Knockout",
+      "ImageURL": ""
+    }
+  ],
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "Etihad Stadium"
+    },
+    {
+      "ID": 2,
+      "Name": "Anfield"
+    },
+    {
+      "ID": 3,
+      "Name": "Emirates Stadium"
+    },
+    {
+      "ID": 4,
+      "Name": "Old Trafford"
+    },
+    {
+      "ID": 5,
+      "Name": "Stamford Bridge"
+    },
+    {
+      "ID": 6,
+      "Name": "St James' Park"
+    },
+    {
+      "ID": 7,
+      "Name": "Tottenham Hotspur Stadium"
+    },
+    {
+      "ID": 8,
+      "Name": "Spotify Camp Nou"
+    },
+    {
+      "ID": 9,
+      "Name": "Santiago Bernabeu"
+    },
+    {
+      "ID": 10,
+      "Name": "Allianz Arena"
+    },
+    {
+      "ID": 11,
+      "Name": "Parc des Princes"
+    },
+    {
+      "ID": 12,
+      "Name": "San Siro"
+    },
+    {
+      "ID": 13,
+      "Name": "Villa Park"
+    },
+    {
+      "ID": 14,
+      "Name": "Metropolitano Stadium"
+    },
+    {
+      "ID": 15,
+      "Name": "Signal Iduna Park"
+    },
+    {
+      "ID": 16,
+      "Name": "Red Bull Arena"
+    },
+    {
+      "ID": 17,
+      "Name": "Estadio de la Ceramica"
+    },
+    {
+      "ID": 18,
+      "Name": "Benito Villamarin"
+    },
+    {
+      "ID": 19,
+      "Name": "Stadio Diego Armando Maradona"
+    },
+    {
+      "ID": 20,
+      "Name": "Stadio Olimpico"
+    },
+    {
+      "ID": 21,
+      "Name": "Stadio Giuseppe Sinigaglia"
+    },
+    {
+      "ID": 22,
+      "Name": "Decathlon Arena"
+    },
+    {
+      "ID": 23,
+      "Name": "Stade Bollaert-Delelis"
+    },
+    {
+      "ID": 24,
+      "Name": "Estadio do Dragao"
+    },
+    {
+      "ID": 25,
+      "Name": "Estadio Jose Alvalade"
+    },
+    {
+      "ID": 26,
+      "Name": "Philips Stadion"
+    },
+    {
+      "ID": 27,
+      "Name": "De Kuip"
+    },
+    {
+      "ID": 28,
+      "Name": "Jan Breydel Stadium"
+    },
+    {
+      "ID": 29,
+      "Name": "Ulker Stadium"
+    },
+    {
+      "ID": 30,
+      "Name": "Rams Park"
+    },
+    {
+      "ID": 31,
+      "Name": "Arena Lviv"
+    },
+    {
+      "ID": 32,
+      "Name": "OPAP Arena"
+    },
+    {
+      "ID": 33,
+      "Name": "Aspmyra Stadion"
+    },
+    {
+      "ID": 34,
+      "Name": "SR-Bank Arena"
+    },
+    {
+      "ID": 35,
+      "Name": "Fortuna Arena"
+    },
+    {
+      "ID": 36,
+      "Name": "Tehelne pole"
+    },
+    {
+      "ID": 37,
+      "Name": "Raiffeisen Arena"
+    },
+    {
+      "ID": 38,
+      "Name": "Bank Respublika Arena"
+    },
+    {
+      "ID": 39,
+      "Name": "Orlando Stadium"
+    },
+    {
+      "ID": 40,
+      "Name": "Loftus Versfeld Stadium"
+    },
+    {
+      "ID": 41,
+      "Name": "FNB Stadium"
+    },
+    {
+      "ID": 42,
+      "Name": "Princess Magogo Stadium"
+    }
+  ],
+  "BayernCustom": {
+    "ClubID": 10,
+    "Stadium": {
+      "Name": "Allianz Arena (Ultimate)",
+      "Capacity": 100000,
+      "StadiumLevel": 10,
+      "PitchQuality": 100
+    },
+    "Facilities": {
+      "TrainingGround": 10,
+      "YouthAcademy": 10,
+      "MedicalCentre": 10,
+      "Gym": 10,
+      "ScoutingCentre": 10,
+      "SportsScience": 10,
+      "RecoveryCentre": 10,
+      "AnalysisCentre": 10,
+      "AcademyDormitories": 10,
+      "CommercialFacilities": 10
+    },
+    "Sponsorship": {
+      "MainSponsor": "GlobalTech",
+      "AnnualValueEUR": 150000000,
+      "KitSponsorValueEUR": 100000000,
+      "CommercialLevel": 10
+    },
+    "RequestedRatingTheme": "7_STARS",
+    "PlayerRating": 100,
+    "PlayerPotential": 100,
+    "StarRating": 7,
+    "TransferTargetClubID": 10,
+    "PackName": "Bayern Munich 7-Star Super Pack",
+    "Note": "Experimental: Rating/Potential/Stars/ClubID fields are not present in the official SM27 JSON example and may be ignored by the game."
+  }
+}
